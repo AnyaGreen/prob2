@@ -1,0 +1,8 @@
+body{background: #dddddd; background-image: url(images/background1.png); margin: 0; padding: 0;}
+
+/*Структура сайта*/
+div.mid{width: 1000px; margin: 0 auto; padding-top: 10px;}
+div.header{background: #FFDAB9;}
+
+/* Шапка сайта */
+div.topmenu{float: right;}
